@@ -1,0 +1,12 @@
+.display{
+
+  margin: 10px;
+  font-weight: 500;
+  font-size: 29px;
+  color: rgb(84, 84, 211);
+  height: 60px;
+  background-color: #3a4452;
+  color: #fff;
+  text-align: right;
+  border: transparent;
+}
